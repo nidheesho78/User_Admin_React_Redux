@@ -1,0 +1,20 @@
+.containerS {
+    display: flex;
+}
+
+.right {
+    padding-left: 700px;
+    padding-top: 25px;
+}
+
+.dark-button {
+    background-color: #333;
+    /* Dark background color */
+    color: #fff;
+    /* White text color for contrast */
+    border: none;
+    /* Remove border if not needed */
+    cursor: pointer;
+    /* Add a pointer cursor for interaction */
+    /* Add any other styles you want */
+}
